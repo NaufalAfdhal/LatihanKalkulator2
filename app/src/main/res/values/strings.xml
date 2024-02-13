@@ -1,0 +1,27 @@
+<resources>
+    <string-array name="operator_array">
+        <item>Add</item>
+        <item>Subtract</item>
+        <item>Multiply</item>
+        <item>Divide</item>
+    </string-array>
+    <string-array name="arithmetic_operations">
+        <item>Addition</item>
+    </string-array>
+
+    <!-- strings.xml -->
+
+        <string name="result">Result: %f</string>
+        <string name="error_invalid_input">Invalid input. Please enter valid numbers.</string>
+        <string name="error_division_by_zero">Error: Division by zero</string>
+    <string name="error_empty_input">Error: Division by zero</string>
+
+
+
+
+
+
+
+
+
+</resources>
